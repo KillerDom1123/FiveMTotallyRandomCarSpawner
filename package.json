@@ -1,0 +1,28 @@
+{
+    "name": "totally_random_car_spawner",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "KillerDom1123",
+    "license": "GNU GPL V3",
+    "scripts": {
+        "build": "node build.js --mode=production",
+        "watch": "node build.js",
+        "prettier": "prettier . --write",
+        "lint": "eslint src --ext .ts"
+    },
+    "devDependencies": {
+        "@citizenfx/client": "2.0.5531-1",
+        "@citizenfx/server": "2.0.5531-1",
+        "@types/node": "16.11.27",
+        "@typescript-eslint/eslint-plugin": "5.20.0",
+        "@typescript-eslint/parser": "5.20.0",
+        "esbuild": "0.14.10",
+        "eslint": "8.14.0",
+        "eslint-config-prettier": "8.5.0",
+        "eslint-plugin-prettier": "4.0.0",
+        "prettier": "2.6.2"
+    },
+    "dependencies": {
+        "npm": "5.3"
+    }
+}
