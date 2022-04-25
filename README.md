@@ -2,7 +2,7 @@
 Fun resource for FiveM servers to spawn in a random vehicle
 
 ## Installation
-1. Download the [latest release](https://github.com/KillerDom1123/FiveMTotallyRandomCarSpawner/releases)
+1. Download the `FiveMTotallyRandomCarSpawner.zip` from the [latest release](https://github.com/KillerDom1123/FiveMTotallyRandomCarSpawner/releases)
 2. Copy the `TotallyRandomCarSpawner` folder into your server resources directory
 3. Add `ensure TotallyRandomCarSpawner` to your `server.cfg`
 4. Edit the `random_car_spawner.json` in the `TotallyRandomCarSpawner` resource folder ([See the configuration options below](https://github.com/KillerDom1123/FiveMTotallyRandomCarSpawner#configuration))
